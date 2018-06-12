@@ -18,7 +18,7 @@
   <summary markdown="span">
     Football
   </summary>
-  * [Football: Ryan Vanden Bos](https://github.com/rickyro03/playground-football/blob/master/final/index.html) --- I fixed the many bugs in this game so it was enjoyable to play,
+  * [Football: Ryan Vanden Bos](https://rickyro02.github.io/playground-football/final/index.html) --- I fixed the many bugs in this game so it was enjoyable to play,
   
 </details>
 
@@ -67,4 +67,3 @@
   
   
 </details>
-
